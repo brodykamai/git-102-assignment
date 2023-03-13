@@ -1,3 +1,4 @@
 #Sesnitive Data
 
 .env.local
+.env.production.local
